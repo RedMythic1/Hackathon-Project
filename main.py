@@ -56,6 +56,7 @@ while True:
             a=pygame.mouse.get_pos()
             x=a[0]
             y=a[1]
+        
      
             if x>459 and x<501 and y>-1 and y<21:
               print("Shop!")
